@@ -1,2 +1,2 @@
-# Projet-c-
+# Projet-c++
 développement des jeux en c++
